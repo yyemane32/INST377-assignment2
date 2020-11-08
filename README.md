@@ -1,1 +1,1 @@
-# INST377-assignmnet2
+# INST377-assignment2
